@@ -1,0 +1,2 @@
+# AlqoritmikaMidterm
+Alqoritmika Midterm Tasks
